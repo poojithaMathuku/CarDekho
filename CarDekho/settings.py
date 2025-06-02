@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'cardekho_app',
+    'django_extensions',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
